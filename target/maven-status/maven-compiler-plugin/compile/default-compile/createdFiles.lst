@@ -1,0 +1,13 @@
+com\digitalriver\configs\JaxRsApiApplication.class
+com\digitalriver\services\PerfectNumberRestService.class
+com\digitalriver\algorithms\EvenNumberWithOddSequentialNumberExponent3Strategy.class
+com\digitalriver\main\Main.class
+com\digitalriver\configs\AppConfig.class
+com\digitalriver\algorithms\EvenNumberWithSummationEqualTo1Strateger.class
+com\digitalriver\models\PerfectNumberReply.class
+com\digitalriver\algorithms\PerfectNumberStrategy.class
+com\digitalriver\algorithms\EvenNumberWithContinuousSummationStrategy.class
+com\digitalriver\services\PerfectNumberService.class
+com\digitalriver\algorithms\PrimeUtils.class
+com\digitalriver\algorithms\PerfectNumberUtils.class
+com\digitalriver\algorithms\EvenNumberWith6Or8AsRearStrategy.class
